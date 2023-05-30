@@ -1,4 +1,4 @@
-package kalil2;
+package br.sc.senac.exercicios.lista1;
 
 import java.util.*;
 
